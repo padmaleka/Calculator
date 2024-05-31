@@ -10,4 +10,4 @@ A simple, responsive calculator built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can see a live demo of the calculator [here]().
+You can see a live demo of the calculator [here](https://padmaleka.github.io/Calculator/Calculator/index.html).
